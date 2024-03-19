@@ -7,9 +7,8 @@
 - Masters, Politiques Publiques| Victoria University of Wellington (_2012-2013_)	 			        		
 - Licence, Science Politique | The University of Waikato (_2009-2011_)
 
-### Education
+## Expérience Professionnelle
 
-### Expérience Professionnelle
 #### Independent Consultant / Consultante indépendante
 #### Alder Tree Research (Londres, Royaume-Uni)
 #### 2021 - 2022  (1 an)					
