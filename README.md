@@ -10,7 +10,7 @@
 ### Education
 
 ### Expérience Professionnelle
-#### Independent Consultant 
+#### Independent Consultant / Consultante indépendante
 #### Alder Tree Research (Londres, Royaume-Uni)
 #### 2021 - 2022  (1 an)					
 Fourniture des services qualitatifs et quantitatifs pour aider les clients à mieux comprendre les personnes qu'ils servaient 
@@ -18,7 +18,7 @@ Fourniture des services qualitatifs et quantitatifs pour aider les clients à mi
 - Élaboration de présentations, rapports et plans d'action pour soutenir le travail de ces associations.
 -	Réalisation d'un projet de recherche pour Tinto, une start-up de soutien maternel impliquant une analyse de données, une enquête qualitative-quantitative, et des entretiens approfondis avec les utilisateurs.
 
-#### Senior Research Analyst 
+#### Senior Research Analyst / Analyste de Recherche Principale
 #### Aperio Insights (Londres, Royaume-Uni)
 #### 2016 - 2021  (5 ans)		
 Rôle de consultant auprès de sociétés du classement Fortune 500, fournissant des insights clients étayés par des données.
@@ -27,7 +27,7 @@ Rôle de consultant auprès de sociétés du classement Fortune 500, fournissant
 - Réalisation d'analyses de données qualitative et quantitative, et utilisation régulière de Tableau et PowerBI pour créer des tableaux de bord.
 - Élaboration de rapports et de documents de travail, communication efficace des résultats aux clients clés et stakeholders à travers des rapports et des présentations.
 
-#### Policy Analyst 
+#### Policy Analyst / Analyste de Politiques
 #### Ministry of Transport (Wellington, Nouvelle-Zélande)
 #### 2013 - 2015  (3 ans)
 Élaborant de nouvelles politiques pour permettre l'adoption de la technologie des transports et améliorer la sécurité routière.
