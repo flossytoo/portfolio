@@ -1,35 +1,96 @@
 # Data Analyst
 
+Enthusiastic, curious and analytical professional, with nine years of international experience in
+research-focused roles, collaborating with organizations based in the US, New Zealand
+and in London. Recently graduated with a Bachelor's in Data Analytics, which deepened my understanding of data analysis. Currently looking for a position that will allow me to leverage my previous experience in market research and data analysis.
+
 #### Technical Skills: Python, SQL, PowerBI, Tableau, Excel
 
-## Education
-- Licence - Data Analyst | OpenClassrooms (_2023-2024_)								       		
-- Masters, Politiques Publiques| Victoria University of Wellington (_2012-2013_)	 			        		
-- Licence, Science Politique | The University of Waikato (_2009-2011_)
+## Project Portfolio
+### Openclassrooms
+#### Detection of fake banknotes using machine learning
+Key steps
+- Create a linear regression to impute missing data
+- Create logistic regressions with Statsmodels and Scikit-Learn
+- Use k-means clustering
+- Determine the best machine learning model and successfully predict whether banknotes are real or fake
+   
+Read more about the project here
 
-## Expérience Professionnelle
+#### Market research for a food company looking to expand internationally
+Key steps
+- Prepare, clean and perform an exploratory analysis of the data supplied
+- Merge datasets together
+- Perform Hierarchical Ascending Classification
+- Use k-means clustering
+- Perform Principal Component Analysis
+- Identify the best countries for international expansion
 
-#### Independent Consultant / Consultante indépendante
-#### Alder Tree Research (Londres, Royaume-Uni)
-#### 2021 - 2022  (1 an)					
-Fourniture des services qualitatifs et quantitatifs pour aider les clients à mieux comprendre les personnes qu'ils servaient 
-- Conception et mise en place de sondages pour les associations britanniques, Fumble et Full of Life, en utilisant des outils analytiques pour une analyse complète des données (Python, Tableau et PowerBI).
-- Élaboration de présentations, rapports et plans d'action pour soutenir le travail de ces associations.
--	Réalisation d'un projet de recherche pour Tinto, une start-up de soutien maternel impliquant une analyse de données, une enquête qualitative-quantitative, et des entretiens approfondis avec les utilisateurs.
+Read more about the project here
 
-#### Senior Research Analyst / Analyste de Recherche Principale
-#### Aperio Insights (Londres, Royaume-Uni)
-#### 2016 - 2021  (5 ans)		
-Rôle de consultant auprès de sociétés du classement Fortune 500, fournissant des insights clients étayés par des données.
--	Recherches de marché et analyses pour des entreprises du Fortune 500, guidant les processus de prise de décision stratégique.
-- Utilisation de diverses techniques de recherche, y compris des revues de littérature, des entretiens d'experts, des interactions avec les stakeholders, des sondages et du web scraping.
-- Réalisation d'analyses de données qualitative et quantitative, et utilisation régulière de Tableau et PowerBI pour créer des tableaux de bord.
-- Élaboration de rapports et de documents de travail, communication efficace des résultats aux clients clés et stakeholders à travers des rapports et des présentations.
+#### Study on world water development
+Key steps
+- Develop a blueprint outlining the key indicators and graphics required
+- Develop a mockup of dashboards at world, regional and national levels
+- Create a Tableau story with dashboards at world, regional and national levels
+- Determine the best countries for creation of water services, improvement of water services and consultancy services
 
-#### Policy Analyst / Analyste de Politiques
-#### Ministry of Transport (Wellington, Nouvelle-Zélande)
-#### 2013 - 2015  (3 ans)
-Élaborant de nouvelles politiques pour permettre l'adoption de la technologie des transports et améliorer la sécurité routière.
--	Identification des meilleures pratiques internationales et analyse des avantages et inconvénients potentiels des nouvelles politiques.
--	Interaction avec les stakeholders, rédaction de notes d'information, de documents pour le Cabinet, et présentation d'informations verbales pour le Ministre et le Ministre adjoint des Transports.
--	Coauteur du plan d'action pour les systèmes de transport intelligents du Ministère, reconnu par un prix au Congrès mondial des systèmes de transport intelligents en 2014.
+Read more about the project here
+
+#### Analysis of gender equality indicators within a company
+Key steps
+- Prepare data in KNIME, respecting GDPR rules
+- Create graphs showing indicators of equality using KNIME
+- Analyse key findings in order to provide actionable insights
+  
+Read more about the project here
+
+#### Sales analysis for an online book seller
+Key steps
+- Prepare, clean and perform an exploratory analysis of the data supplied
+- Investigate sales indicators (evolution of revenue over time, revenue by category, product sales, client demographics, client spending, and top 10 clients by purchases and sales)
+- Investigate correlations between client demographics and sales indicators (gender and book category, age and total spending, age and number of purchases, age and basket size, age and category of book purchased)
+- Analyse key findings in order to provide actionable insights
+  
+Read more about the project here
+
+#### Optimisation of data management for a wine seller
+Key steps
+- Prepare, clean and perform an exploratory analysis 
+- Merge files together
+- Identify products generating the most revenue
+- Analyse prices of products to identify outliers
+- Identify the most expensive products
+- Analyse key findings in order to provide actionable insights
+  
+Read more about the project here
+
+#### Public health study on nutrition worldwide
+Key steps
+- Prepare, clean and perform an exploratory analysis
+- Identify proportion of people who are undernourished, and theorectical number of people who could be fed based on calories available worldwide
+- Analyse use of food for humans vs use of food for animals
+- Identify top 10 countries in terms of various key indicators
+- Analyse use of cassava in Thailand
+- Analyse key findings in order to provide actionable insights
+  
+Read more about the project here
+
+#### Creation of a database for real estate data with SQL
+Key steps
+- Create a data dictionary
+- Creata a database schema
+- -Upload data into a database and create tables in it
+- Perform SQL queries to respond to business problems
+
+Read more about the project here
+
+#### Sales analysis for an ecommerce platform
+Key steps
+- Generate graphs in Excel based on the types of data
+- Interpret information from a dashboard
+- Summarise results in order to provide actionable insights
+
+Read more about the project here
+
+
