@@ -2,3 +2,4 @@ title: Catherine Delannoy
 logo: /cropped_image.png
 show_downloads: true
 theme: jekyll-theme-minimal
+front_matter: true
