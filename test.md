@@ -1,5 +1,5 @@
 ---
-YAML
+yaml
 layout: page
 title: "PAGE-TITLE"
 permalink: /banknotes
