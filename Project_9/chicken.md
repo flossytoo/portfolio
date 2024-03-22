@@ -1,5 +1,5 @@
 # Market research for a food company looking to expand internationally
-#### Technical Skills: Excel, Python libraries (ScikitLearn, Statsmodels, Pandas, NumPy, Seaborn, MatplotLib, Plotly), PowerPoint
+#### Technical Skills: Excel, Python libraries (ScikitLearn, Scipy, Pandas, NumPy, Seaborn, MatplotLib, Plotly), PowerPoint
 
 For this project, I played the part of a data analyst working for a French food business focussed on selling chicken products. The business was successful and looking to expand internationally, but was unsure of what regions and countries would be best to target for international expansion. 
 
