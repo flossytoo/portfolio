@@ -15,7 +15,7 @@ Key steps
 - Use k-means clustering
 - Determine the best machine learning model and successfully predict whether banknotes are real or fake
    
-Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_10/Banknotes)
+Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_10/banknotes)
 
 #### Market research for a food company looking to expand internationally
 Key steps
