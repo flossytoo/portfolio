@@ -10,10 +10,10 @@ and in London. Recently graduated with a Bachelor's in Data Analytics, which dee
 ### Openclassrooms
 #### Detection of fake banknotes using machine learning
 > Key steps
-- Create a linear regression to impute missing data
-- Create logistic regressions with Statsmodels and Scikit-Learn
-- Use k-means clustering
-- Determine the best machine learning model and successfully predict whether banknotes are real or fake
+> - Create a linear regression to impute missing data
+> - Create logistic regressions with Statsmodels and Scikit-Learn
+> - Use k-means clustering
+> - Determine the best machine learning model and successfully predict whether banknotes are real or fake
    
 Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_10/banknotes)
 
