@@ -1,10 +1,9 @@
-# Data Analyst
+# Kiwi Data Analyst Based in France
+#### Technical Skills: Python, SQL, PowerBI, Tableau, Excel
 
 Enthusiastic, curious and analytical professional, with nine years of international experience in
 research-focused roles, collaborating with organizations based in the US, New Zealand
 and in London. Recently graduated with a Bachelor's in Data Analytics, which deepened my understanding of data analysis. Currently looking for a position that will allow me to leverage my previous experience in market research and data analysis.
-
-#### Technical Skills: Python, SQL, PowerBI, Tableau, Excel
 
 ## Project Portfolio
 ### Openclassrooms
