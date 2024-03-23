@@ -13,6 +13,6 @@ The project had 4 steps:
 - Finding total revenue for each product sold online, as well as total overall online revenue.
 - Checking for whether there were any products that had pricing errors
 
-View the final report [HERE](https://flossytoo.github.io/portfolio/Project_5/wine_sales.pdf)
+#### View the final report [HERE](https://flossytoo.github.io/portfolio/Project_5/wine_sales.pdf)
 
-Download the Jupyter notebook and associated files [HERE](https://flossytoo.github.io/portfolio/Project_5/Jupyter.zip)
+#### Download the Jupyter notebook and associated files [HERE](https://flossytoo.github.io/portfolio/Project_5/Jupyter.zip)
