@@ -1,5 +1,5 @@
 title: Catherine Delannoy
 logo: /cropped_image.png
-show_downloads: true
+show_downloads: False
 theme: jekyll-theme-minimal
 front_matter: true
