@@ -7,6 +7,6 @@ In order to thoroughly investigate this topic, I used data which allowed me to d
 
 Based on this analysis, I was able to identify that Australasia (particularly Australia and New Zealand), and Europe (particularly the Netherlands and Ireland) would be the best regions to target.
 
-View the final report [HERE](https://flossytoo.github.io/portfolio/Project_9/Chicken.pdf)
+#### View the final report [HERE](https://flossytoo.github.io/portfolio/Project_9/Chicken.pdf)
 
-Download the Jupyter notebook and associated files [HERE](https://flossytoo.github.io/portfolio/Project_9/Jupyter.zip)
+#### Download the Jupyter notebook and associated files [HERE](https://flossytoo.github.io/portfolio/Project_9/Jupyter.zip)
