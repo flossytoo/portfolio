@@ -7,6 +7,6 @@ The organisation asked to not only see the results of the algorithm but the trea
 
 I was also requsted to use k-means and logistic regression as potential models for detecting counterfeit banknotes. I ultimately tested two types of logistic rgression (ScikitLearn's and Statsmodels), as well as k-means.
 
-View the final report [HERE](https://flossytoo.github.io/portfolio/Project_10/Banknotes.pdf)
+#### View the final report [HERE](https://flossytoo.github.io/portfolio/Project_10/Banknotes.pdf)
 
-Download the Jupyter notebook and associated files [HERE](https://flossytoo.github.io/portfolio/Project_10/Jupyter.zip)
+#### Download the Jupyter notebook and associated files [HERE](https://flossytoo.github.io/portfolio/Project_10/Jupyter.zip)
