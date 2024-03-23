@@ -14,7 +14,7 @@ Key steps
 > - Use k-means clustering
 > - Determine the best machine learning model and successfully predict whether banknotes are real or fake
    
-Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_10/banknotes)
+##### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_10/banknotes)
 
 #### Market research for a food company looking to expand internationally
 Key steps
@@ -25,7 +25,7 @@ Key steps
 > - Perform Principal Component Analysis
 > - Identify the best countries for international expansion
 
-Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_9/chicken)
+##### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_9/chicken)
 
 #### Study on world water development
 Key steps
@@ -34,7 +34,7 @@ Key steps
 > - Create a Tableau story with dashboards at world, regional and national levels
 > - Determine the best countries for creation of water services, improvement of water services and consultancy services
 
-Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_8/water)
+##### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_8/water)
 
 #### Analysis of gender equality indicators within a company
 Key steps
@@ -42,7 +42,7 @@ Key steps
 > - Create graphs showing indicators of equality using KNIME
 > - Analyse key findings in order to provide actionable insights
   
-Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_7/gender_equality)
+##### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_7/gender_equality)
 
 #### Sales analysis for an online book seller
 Key steps
@@ -51,7 +51,7 @@ Key steps
 > - Investigate correlations between client demographics and sales indicators (gender and book category, age and total spending, age and number of purchases, age and basket size, age and category of book purchased)
 > - Analyse key findings in order to provide actionable insights
   
-Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_6/bookstore)
+##### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_6/bookstore)
 
 #### Optimisation of data management for a wine seller
 Key steps
@@ -62,7 +62,7 @@ Key steps
 > - Identify the most expensive products
 > - Analyse key findings in order to provide actionable insights
   
-Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_5/wine_sales)
+##### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_5/wine_sales)
 
 #### Public health study on nutrition worldwide
 Key steps
@@ -73,7 +73,7 @@ Key steps
 > - Analyse use of cassava in Thailand
 > - Analyse key findings in order to provide actionable insights
   
-Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_4/nutrition)
+##### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_4/nutrition)
 
 #### Creation of a database for real estate data with SQL
 Key steps
@@ -82,7 +82,7 @@ Key steps
 > - Upload data into a database and create tables in it
 > - Perform SQL queries to respond to business problems
 
-Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_3/real_estate)
+##### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_3/real_estate)
 
 #### Sales analysis for an ecommerce platform
 Key steps
@@ -90,6 +90,6 @@ Key steps
 > - Interpret information provided by a dashboard
 > - Summarise results in order to provide actionable insights
 
-Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_2/sales_analysis)
+##### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_2/sales_analysis)
 
 
