@@ -6,7 +6,7 @@ research-focused roles, collaborating with organizations based in the US, New Ze
 and in London. Recently graduated with a Bachelor's in Data Analytics and looking for a position that will allow me to leverage my degree and my previous experience in market researh and analysis.
 
 ## Project Portfolio
-### Openclassrooms
+<span style="color:#9932CC;">### Openclassrooms</span>
 #### Detection of fake banknotes using machine learning
 Key steps
 > - Create a linear regression to impute missing data
