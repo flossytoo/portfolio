@@ -9,7 +9,7 @@ and in London. Recently graduated with a Bachelor's in Data Analytics, which dee
 ## Project Portfolio
 ### Openclassrooms
 #### Detection of fake banknotes using machine learning
-> Key steps
+Key steps
 > - Create a linear regression to impute missing data
 > - Create logistic regressions with Statsmodels and Scikit-Learn
 > - Use k-means clustering
