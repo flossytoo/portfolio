@@ -17,5 +17,5 @@ For the second part of the project, I was asked to work in Excel to update reven
 - Update the first chart (already created) with the most recent month's data
 - Create a table which summarizes for each customer, the number of purchases and the total turnover in Sheet 2
 
-#### View the presentation on Section 1 [HERE](https://flossytoo.github.io/portfolio/project_2/sales_analysis.pdf)
-#### View the Excel sheet [HERE](https://flossytoo.github.io/portfolio/project_2/excel.xlsx)
+#### View the presentation on Section 1 [HERE](https://flossytoo.github.io/portfolio/Project_2/sales_analysis.pdf)
+#### View the Excel sheet [HERE](https://flossytoo.github.io/portfolio/Project_2/excel.xlsx)
