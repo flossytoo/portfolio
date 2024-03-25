@@ -1,4 +1,4 @@
-# Public health study on nutrition worldwide
+# Public health study on worldwide nutrition
 ![Public health study cover page](../images_english/P4.png)
 #### Technical Skills: Excel, Python libraries (Pandas, MatplotLib, Seaborn), PowerPoint
 
