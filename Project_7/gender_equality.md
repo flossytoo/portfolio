@@ -1,4 +1,5 @@
 # Analysis of a company's gender equality indicators
+![Gender equality cover page](../images_english/P7.png)
 #### Technical Skills: Excel, KNIME, Figma, PowerPoint, Word
 
 For this project, I played the role of a data analyst in a consulting firm specializing in the digital transformation of companies. The firm already had more than 150 employees and was continuing to expand. In this economic context, strategic recruiting of experienced consultants was of importance to the company.
