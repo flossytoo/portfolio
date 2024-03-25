@@ -1,4 +1,5 @@
 # Optimisation of data management for a wine seller
+![Wine sales analysis cover page](../images_english/P5.png)
 #### Technical Skills: Excel, Python libraries (Pandas, NumPy, Matplotlib, Seaborn, OpenPyXL), PowerPoint
 
 For this project, I played the role of a data analyst working for a wine seller named BottleNeck. To manage data on their resources, clients etc., they used an enterprise resource planning (ERP) system. However, this system was not linked with their website, where many of their sales are made, making it difficult to conduct data analysis.
