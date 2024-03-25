@@ -19,6 +19,7 @@ and in London. Recently graduated with a Bachelor's in Data Analytics and lookin
 > #### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_10/banknotes)
 
 #### Market research for a food company looking to expand internationally
+![Market research cover page](images_english/P9.png)
 > Key steps
 > - Prepare, clean and perform an exploratory analysis of the data supplied
 > - Merge datasets together
@@ -30,6 +31,7 @@ and in London. Recently graduated with a Bachelor's in Data Analytics and lookin
 > #### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_9/chicken)
 
 #### Study on world water development
+![World water development cover page](images_english/P8.png)
 > Key steps
 > - Develop a blueprint outlining the key indicators and graphics required
 > - Develop a mockup of dashboards at world, regional and national levels
@@ -39,6 +41,7 @@ and in London. Recently graduated with a Bachelor's in Data Analytics and lookin
 > #### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_8/water)
 
 #### Analysis of gender equality indicators within a company
+![Gender equality cover page](images_english/P7.png)
 > Key steps
 > - Prepare data in KNIME, respecting GDPR rules
 > - Create graphs showing indicators of equality using KNIME
@@ -47,6 +50,7 @@ and in London. Recently graduated with a Bachelor's in Data Analytics and lookin
 > #### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_7/gender_equality)
 
 #### Sales analysis for an online book seller
+![Bookshop sales analysis cover page](images_english/P6.png)
 > Key steps
 > - Prepare, clean and perform an exploratory analysis of the data supplied
 > - Investigate sales indicators (evolution of revenue over time, revenue by category, product sales, client demographics, client spending, and top 10 clients by purchases and sales)
@@ -56,6 +60,7 @@ and in London. Recently graduated with a Bachelor's in Data Analytics and lookin
 > #### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_6/bookstore)
 
 #### Optimisation of data management for a wine seller
+![Wine sales analysis cover page](images_english/P5.png)
 > Key steps
 > - Prepare, clean and perform an exploratory analysis 
 > - Merge files together
@@ -67,6 +72,7 @@ and in London. Recently graduated with a Bachelor's in Data Analytics and lookin
 > #### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_5/wine_sales)
 
 #### Public health study on nutrition worldwide
+![Public health study cover page](images_english/P4.png)
 > Key steps
 > - Prepare, clean and perform an exploratory analysis
 > - Identify proportion of people who are undernourished, and theorectical number of people who could be fed based on calories available worldwide
@@ -78,6 +84,7 @@ and in London. Recently graduated with a Bachelor's in Data Analytics and lookin
 > #### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_4/nutrition)
 
 #### Creation of a database for real estate data with SQL
+![Real estate angency analysis cover page](images_english/P3.png)
 > Key steps
 > - Create a data dictionary
 > - Creata a database schema
@@ -87,6 +94,7 @@ and in London. Recently graduated with a Bachelor's in Data Analytics and lookin
 > #### Read more about the project [HERE](https://flossytoo.github.io/portfolio/Project_3/real_estate)
 
 #### Sales analysis for an ecommerce platform
+![Ecommerce sales analysis cover page](images_english/P2.png)
 > Key steps
 > - Generate graphs in Excel based on the types of data
 > - Interpret information provided by a dashboard
