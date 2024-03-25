@@ -1,4 +1,7 @@
 # Study on world water development
+
+![World water development cover page](../images_english/P8.png)
+
 #### Technical Skills: Excel, Tableau, Figma, PowerPoint, Word
 
 For this project, I played the part of a data analyst working for the NGO “Drinking Water For ALL’ (DWFA), which has the goal of providing access to safe drinking water to everyone worldwide. 
