@@ -1,7 +1,7 @@
 # Detection of fake banknotes using machine learning
 #### Technical Skills: Excel, Python libraries (ScikitLearn, Statsmodels, Pandas, NumPy, Seaborn, MatplotLib, Plotly), PowerPoint
 
-![Fake banknotes cover page](images_english/P10.png)
+![Fake banknotes cover page](../images_english/P10.png)
 
 For this project, I played the part of a Data Analyst consultant, and helped the National Organisation for the Fight against Counterfeiting. The organisation had noticed there is a difference in terms of dimensions between real and counterfeit banknotes and so asked me to develop an algorithm to detect counterfeit banknotes based on these dimensions.
 
