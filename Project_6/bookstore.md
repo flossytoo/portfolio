@@ -1,4 +1,5 @@
 # Sales analysis for an online book seller
+![Bookshop sales analysis cover page](../images_english/P6.png)
 #### Technical Skills: Excel, Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy), PowerPoint
 
 For this project, I played the role of a data analyst working for a book seller called Lapage. Lapage was originally a physical bookstore with several points of sale, but due to strong sales and the enthusiasm of its customers, two years ago it decided to make a website and sell products there as well. 
