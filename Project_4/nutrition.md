@@ -1,4 +1,5 @@
 # Public health study on nutrition worldwide
+![Public health study cover page](../images_english/P4.png)
 #### Technical Skills: Excel, Python libraries (Pandas, MatplotLib, Seaborn), PowerPoint
 
 For this project, I played the role of a data analyst for the Food and Agriculture Organization of the United Nations (FAO).The organization has the goal of helping to build a world free from hunger.
