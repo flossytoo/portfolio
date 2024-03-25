@@ -1,4 +1,5 @@
 # Creation of a database for real estate data with SQL
+![Real estate angency analysis cover page](../images_english/P3.png)
 #### Technical skills: Excel, draw.io, PowerQuery, SQLite, Word
 
 For this project, I played the role of a data analyst working for "Laplace Immo" - a national network of real estate companies.
