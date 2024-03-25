@@ -9,7 +9,7 @@ He therefore asked me to work on the “DATAImmo” project. This project involv
 
 Following this, I was asked to conduct an analysis of the real estate market of France to allow regional agencies to better support their clients.
 
-In this context, it has entrusted you with the creation of a database to collect real estate and land transactions in France. You will then use this base to analyze the market and help the different regional agencies to better support their clients.
+In this context, I was asked to create a database to collect real estate and land transactions in France. The company was then able to use the database to analyse the market and help the different regional agencies to better support their clients.
 
 I was provided with 3 csv files for this project:
 - data extracted from the open data site for Land Value Requests (DVF);
