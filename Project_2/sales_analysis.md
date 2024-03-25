@@ -1,4 +1,5 @@
 # Sales analysis for an ecommerce platform
+![Ecommerce sales analysis cover page](../images_english/P2.png)
 #### Technical skills - Excel, PowerPoint
 
 For this project, I played the role of a junior data analyst working for an ecommerce platform selling a variety of products. The company manages a warehouse and delivers orders placed by customers on its website to homes. This project required me to work on a monthly report about sales and marketing, and consisting of 2 parts.
